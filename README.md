@@ -6,17 +6,17 @@ To develop a animator movement for a player using unity.
 # Step 1:
 Import necessary models.
 
-#  2:
+# step 2:
 Right-click -> Create -> Animator Controller.
 
 # Step 3:
-Open Animator window, define states (Idle, Run, Jump, etc.).
+Open the Animator window, and define states (Idle, Run, Jump, etc.).
 
 # Step 4:
 Use keyframes or Unity's Animation tools to animate transitions between states.
 
 # Step 5:
-Drag Animator Controller to the GameObject in the Inspector.
+Drag the Animator Controller to the GameObject in the Inspector.
 
 # Program:
 ```
